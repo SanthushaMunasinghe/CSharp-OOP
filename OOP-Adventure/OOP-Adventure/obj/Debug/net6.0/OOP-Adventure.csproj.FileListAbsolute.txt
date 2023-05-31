@@ -1,0 +1,15 @@
+C:\Users\santh\Documents\GitHub\CSharp-OOP\OOP-Adventure\OOP-Adventure\bin\Debug\net6.0\OOP-Adventure.exe
+C:\Users\santh\Documents\GitHub\CSharp-OOP\OOP-Adventure\OOP-Adventure\bin\Debug\net6.0\OOP-Adventure.deps.json
+C:\Users\santh\Documents\GitHub\CSharp-OOP\OOP-Adventure\OOP-Adventure\bin\Debug\net6.0\OOP-Adventure.runtimeconfig.json
+C:\Users\santh\Documents\GitHub\CSharp-OOP\OOP-Adventure\OOP-Adventure\bin\Debug\net6.0\OOP-Adventure.dll
+C:\Users\santh\Documents\GitHub\CSharp-OOP\OOP-Adventure\OOP-Adventure\bin\Debug\net6.0\OOP-Adventure.pdb
+C:\Users\santh\Documents\GitHub\CSharp-OOP\OOP-Adventure\OOP-Adventure\obj\Debug\net6.0\OOP-Adventure.csproj.AssemblyReference.cache
+C:\Users\santh\Documents\GitHub\CSharp-OOP\OOP-Adventure\OOP-Adventure\obj\Debug\net6.0\OOP-Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santh\Documents\GitHub\CSharp-OOP\OOP-Adventure\OOP-Adventure\obj\Debug\net6.0\OOP-Adventure.AssemblyInfoInputs.cache
+C:\Users\santh\Documents\GitHub\CSharp-OOP\OOP-Adventure\OOP-Adventure\obj\Debug\net6.0\OOP-Adventure.AssemblyInfo.cs
+C:\Users\santh\Documents\GitHub\CSharp-OOP\OOP-Adventure\OOP-Adventure\obj\Debug\net6.0\OOP-Adventure.csproj.CoreCompileInputs.cache
+C:\Users\santh\Documents\GitHub\CSharp-OOP\OOP-Adventure\OOP-Adventure\obj\Debug\net6.0\OOP-Adventure.dll
+C:\Users\santh\Documents\GitHub\CSharp-OOP\OOP-Adventure\OOP-Adventure\obj\Debug\net6.0\refint\OOP-Adventure.dll
+C:\Users\santh\Documents\GitHub\CSharp-OOP\OOP-Adventure\OOP-Adventure\obj\Debug\net6.0\OOP-Adventure.pdb
+C:\Users\santh\Documents\GitHub\CSharp-OOP\OOP-Adventure\OOP-Adventure\obj\Debug\net6.0\OOP-Adventure.genruntimeconfig.cache
+C:\Users\santh\Documents\GitHub\CSharp-OOP\OOP-Adventure\OOP-Adventure\obj\Debug\net6.0\ref\OOP-Adventure.dll
