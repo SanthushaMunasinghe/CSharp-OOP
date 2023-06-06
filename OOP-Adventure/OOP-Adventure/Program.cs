@@ -1,14 +1,14 @@
 ﻿using OOPAdventure;
 
-var language = new English();
+Text.LoadLanguage(new English());
 
-Console.WriteLine(language.ChooseYourName);
+Console.WriteLine(Text.Language.ChooseYourName);
 
 var name = Console.ReadLine();
 
 if (name == string.Empty)
-    name = "Player";
+    name = Text.Language.DefaultName;
 
 var player = new Player(name);
 
-Console.WriteLine("Hello {0}, to your OOP Adventure!", player.Name);
+Console.WriteLine(Text.Language.Welcome, player.Name);
